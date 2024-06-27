@@ -7,7 +7,7 @@
 
 ### :cherry_blossom: Sobre mí :
 
-- 🌱 Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+- 🌱 Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de visualización.
 
 - 📫 How to reach me **samm.lestudillo@gmail.com**
 
