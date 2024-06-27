@@ -1,6 +1,6 @@
 <h1 align="center">Hola soy Samantha.<img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h3 align="center">Entusiasta de la tecnología en plena transición hacia el análisis de datos en Data Analyst</h3>
+<h3 align="center">Entusiasta de la tecnología en plena transición hacia el análisis de datos</h3>
 
 ---
  <div id="header" align="left">
