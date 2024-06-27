@@ -2,7 +2,12 @@
 </h1>
 <h3 align="center">Entusiasta de la tecnología en plena transición hacia el análisis de datos en Data Analyst</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Python, SQL...**
+---
+ <div id="header" align="left">
+
+### :cherry_blossom: Sobre mí :
+
+- 🌱 Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
 
 - 📫 How to reach me **samm.lestudillo@gmail.com**
 
