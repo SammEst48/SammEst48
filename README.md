@@ -9,7 +9,7 @@
 
 - 🌱 Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de visualización.
 
-- 📫 How to reach me **samm.lestudillo@gmail.com**
+- 📫 ¿Quieres contactar conmigo? :point_down:
 
 <h3 align="left">Mis redes:</h3>
 <p align="left">
