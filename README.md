@@ -7,23 +7,11 @@
 
 ### :cherry_blossom: Sobre mí :
 
-- :telescope: Actualmente estoy en la parte final de mi curso de Data Analyst en el BootCamp TripleTen, ansiosa de poder aplicar mis nuevos conocimientos
+- 🔭 Actualmente estoy en la parte final de mi curso de Data Analyst en el BootCamp TripleTen, ansiosa de poder aplicar mis nuevos conocimientos
   
-- 🌱 Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de visualización.
+- 🌱 Estoy estudiando y practicando lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de visualización.
 
-- 📫 ¿Quieres contactar conmigo? :point_down:  
-
-<h3 align="left"> 🧑‍🤝‍🧑 Mis redes:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/samantha-estudillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/samantha-estudillo" height="30" width="40" /></a>
-<a href="https://discord.gg/samm0261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samm0261" height="30" width="40" /></a>
-</p>
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
-
-  [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCr6HdsNDgddt6rDGDdNaIpA)
-
-[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://www.noelia-navarro.com/)
+- 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-estudillo)  
 
 <h3 align="left"> 🛠️ Lenguajes y herramientas:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
