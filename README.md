@@ -13,7 +13,6 @@
 
 - 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Samantha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-estudillo)  
 
----
    
  ### 🛠️ Lenguajes y herramientas :
 <div id="header" align="left">
