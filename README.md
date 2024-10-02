@@ -11,7 +11,7 @@ Soy **Analista de Datos** con una sólida formación en ingeniería civil y un i
 
 - 🎓 **Formación reciente:** Bootcamp en Data Analytics en TripleTen, donde he desarrollado proyectos que abarcan desde análisis exploratorios hasta la creación de dashboards interactivos.
 - 🔭 **Actualmente:** Me encuentro trabajando en proyectos de scraping, machine learning y análisis de mercado, aplicando todo lo aprendido para optimizar procesos y generar valor empresarial.
-- 🌱 **Mis herramientas favoritas:** Python y SQL para el análisis, junto con Power BI y Tableau para la visualización de datos.
+- 🌱 **Mis herramientas favoritas:** Python para el análisis, junto con Power BI y Tableau para la visualización de datos.
 - 📫 **¿Quieres conectar?** Estoy disponible en [![LinkedIn Badge](https://img.shields.io/badge/-Samantha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-estudillo)
 
 ---
@@ -25,12 +25,11 @@ Soy **Analista de Datos** con una sólida formación en ingeniería civil y un i
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
 </div>
-
 ---
 
 ### 🔥 Mis estadísticas:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SammEst48&theme=white&background=000000)](https://git.io/streak-stats)
-
+| --- | --- |
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammEst48&layout=compact&theme=vision-friendly-dark)]
 
 ---
