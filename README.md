@@ -30,8 +30,8 @@ Soy **Analista de Datos** con una sólida formación en ingeniería civil y un i
 
 ### 🔥 Mis estadísticas:
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khalessi89&show_icons=true&theme=tokyonight) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Khalessi89&theme=tokyonight)  |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammEst48&show_icons=true&theme=dracula) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SammEst48&theme=dracula)  |
 | --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalessi89&layout=compact&theme=tokyonight) | 
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SammEst48&layout=compact&theme=dracula) | 
 
 ---
