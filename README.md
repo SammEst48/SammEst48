@@ -25,11 +25,13 @@ Soy **Analista de Datos** con una sólida formación en ingeniería civil y un i
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
 </div>
+
 ---
 
 ### 🔥 Mis estadísticas:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SammEst48&theme=white&background=000000)](https://git.io/streak-stats)
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khalessi89&show_icons=true&theme=tokyonight) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Khalessi89&theme=tokyonight)  |
 | --- | --- |
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammEst48&layout=compact&theme=vision-friendly-dark)]
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalessi89&layout=compact&theme=tokyonight) | 
 
 ---
