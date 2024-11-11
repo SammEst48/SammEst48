@@ -7,12 +7,12 @@
 
 ### 🌸 Sobre mí:
 
-Soy **Analista de Datos** con una sólida formación en ingeniería civil y un interés creciente por la tecnología y el análisis de datos. Después de completar un bootcamp de **Data Analytics en TripleTen**, adquirí experiencia práctica las herramientas para la extracción, trasformación y visualización de los datos. Apasionada por descubrir insights valiosos a partir de los datos y generar impacto a través de la automatización y el análisis predictivo.
+Soy **Analista de Datos** con formación en ingeniería civil pero con un gran interés por la tecnología y el análisis de datos que me ha llevado a completar un bootcamp de **Data Analytics en TripleTen**, donde adquirí experiencia práctica en las herramientas para la extracción, transformación y visualización de los datos. Enfocada en descubrir insights valiosos a partir de los datos y generar impacto a través de la automatización y el análisis predictivo.
 
 - 🎓 **Formación reciente:** Bootcamp en Data Analytics en TripleTen, donde he desarrollado proyectos que abarcan desde análisis exploratorios hasta la creación de dashboards interactivos.
 - 🔭 **Actualmente:** Me encuentro trabajando en proyectos de scraping, machine learning y análisis de mercado, aplicando todo lo aprendido para optimizar procesos y generar valor empresarial.
 - 🌱 **Mis herramientas favoritas:** Python para el análisis, junto con Power BI y Tableau para la visualización de datos.
-- 📫 **¿Quieres conectar?** Estoy disponible en [![LinkedIn Badge](https://img.shields.io/badge/-Samantha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-estudillo)
+- 📫 **¿Quieres conectar?** Estoy disponible en [![LinkedIn Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samantha-estudillo)
 
 ---
 
